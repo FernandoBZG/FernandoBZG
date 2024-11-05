@@ -1,7 +1,3 @@
-Thank you for the information! I'll use it to create a profile README for you.
-
----
-
 # Hi, I'm FernandoBZG! 👋
 
 ### About Me
