@@ -1,4 +1,4 @@
-# Hi, I'm FernandoBZG! 👋
+# Hi, I'm Fernando! 👋
 
 ### About Me
 - 🎓 I'm a Civil Engineering student in Brazil.
