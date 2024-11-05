@@ -1,16 +1,20 @@
-## Hi there 👋
+Thank you for the information! I'll use it to create a profile README for you.
 
-<!--
-**FernandoBZG/FernandoBZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi, I'm FernandoBZG! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 I'm a Civil Engineering student in Brazil.
+- 🌌 I have a passion for Astronomy.
+- 🎮 I enjoy playing video games.
+- 🌐 I have intermediate proficiency in English.
+
+### Skills
+- 💻 Advanced Python programming.
+
+### Projects
+- I'm currently working on simple coding projects to improve my skills.
+
+### Connect with Me
+- Feel free to reach out to me on GitHub!
